@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  URL: 'http://localhost:3000/api'
+  URL: 'https://backfinal-production-29e7.up.railway.app/api'
 };
 
 /*
