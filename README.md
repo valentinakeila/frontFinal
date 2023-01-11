@@ -1,3 +1,7 @@
+
+VALENTINA KEILA GARRIDO
+ Este es un proyecto desarrollado con angular de front, node.js de back y mongoatlas de base de datos.
+ Le paso el url de mongo atlas por privado para que vea como valida los datos (no se ven en la pagina).
 # Mean
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
